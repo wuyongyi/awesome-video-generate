@@ -21,7 +21,7 @@ A curated list of awesome Video generate resources and projects
 see also：http://web.mit.edu/vondrick/tinyvideo/
 
 ## dvd-gan
-DeepMind 提出的模型叫作 Dual Video Discriminator GAN (DVD-GAN)，可以利用计算高效的判别器分解，扩展到时间更长、分辨率更高的视频。该研究是迈向逼真视频生成的一次探索， Ian Goodfellow 也转推了这篇论文。
+DeepMind 提出的模型叫作 Dual Video Discriminator GAN (DVD-GAN)，可以利用计算高效的判别器分解，扩展到时间更长、分辨率更高的视频。该研究建立在biggan之上，是迈向逼真视频生成的一次探索， Ian Goodfellow 也转推了这篇论文。
 
 论文名称：Efficient Video Generation on Complex Datasets
 论文地址：https://arxiv.org/pdf/1907.06571.pdf
