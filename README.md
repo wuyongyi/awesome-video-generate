@@ -31,7 +31,7 @@ Phenaki是一个能够在给定一系列文本提示的情况下进行逼真的�
 
 传送门：https://phenaki.github.io
 
-开源代码：tbd
+开源代码：tbd，check https://github.com/lucidrains/phenaki-pytorch
 
 ## Imagen - Pytorch
 
