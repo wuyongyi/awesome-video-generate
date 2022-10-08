@@ -55,6 +55,19 @@ Phenaki是一个能够在给定一系列文本提示的情况下进行逼真的�
 
 论文：https://makeavideo.studio/Make-A-Video.pdf
 
+## DALL-E 2 - Pytorch
+
+在Pytorch实现DALL-E 2，OpenAI更新的文本到图像合成神经网络。
+
+
+主要的新颖之处似乎是与先前网络的额外间接层（无论是自回归变压器还是扩散网络），它根据从CLIP嵌入的文本预测图像嵌入。具体来说，这个存储库只会构建扩散之前的网络，因为它是性能最好的变体（但顺便说一句，它涉及因果变压器作为去噪网络。
+
+截至22年5月23日，它不再是SOTA。Jax版本以及文本到视频项目将转向Imagen架构，因为它要简单得多。
+
+传送门：https://github.com/lucidrains/DALLE2-pytorch
+
+
+
 
 
 
