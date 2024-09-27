@@ -2513,26 +2513,9 @@ OpenAI, 16 Dec 2022
 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/) \
 Google Research, 29 Sep 2022
 
-# Awesome Digital Human [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<!-- # <p align=center>`awesome digital human`</p> -->
-<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=weihaox/awesome-clothed-human)  -->
+# Digital Human 
 
-> A curated collection of resources on clothed people: full body recontruction, head reconstruction, digital human related projects, etc.  
-
-## Contributing
-
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls). You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) to produce them in the markdown format provided below.
-
-```Markdown
-**Here is the Paper Name.**<br>
-*[Author 1](homepage), Author 2, and Author 3.*<br>
-Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Data](link)]
-```
-
-<details><summary>Table of Contents</summary><p>
+## Table of Contents
 	
 - [Industry Demo or Product](#industry-demo-or-product)
 - [3D Human Avatar Generation and Animation](#3d-human-avatar-generation-and-animation)
@@ -2549,7 +2532,6 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 - [Dataset](#dataset)
 - [Applications](#applications)
 
-</p></details><p></p>
 
 ## Industry Demo or Product
 
