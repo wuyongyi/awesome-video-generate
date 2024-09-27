@@ -2,8 +2,6 @@
 A curated list of awesome Video generate resources and projects since 2022(gpt-3 droped in 2022)
 
 # Video Diffusion
-A curated list of recent diffusion models for video generation, editing, restoration, understanding, nerf, etc.
-
 
 
 ## Table of Contents <!-- omit in toc -->
