@@ -1800,9 +1800,6 @@ A curated list of recent diffusion models for video generation, editing, restora
 + [Neural Cell Video Synthesis via Optical-Flow Diffusion](https://arxiv.org/abs/2212.03250) (Dec., 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.03250)
 
-
-<div align="center">
-
 # Text-To-Video 
 
 ## Table of Contents
