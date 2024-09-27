@@ -1,4 +1,4 @@
-# awesome-video-generate-Since-2022
+# awesome-video-generate-since-2022
 A curated list of awesome Video generate resources and projects since 2022
 
 # Video Diffusion
